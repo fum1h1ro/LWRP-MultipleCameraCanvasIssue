@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Loading
+  - Zombie
+  - ZombieTrigger
+  - GoalTrigger
+  - EventTrigger
+  - Score
+  - Menu_Score
+  - Menu_Money
+  - Menu_Time
+  - Guide
+  - SpeedUpItem
+  - Car
+  - PhysicsObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Object
+  - PhysicsObject
+  - Player
+  - Dangerous
+  - Item
+  - LargePhysicsObject
+  - Zombie
+  - DeadBody
+  - EventTrigger
+  - Road
+  - SystemWall
+  - UI_3DModel
+  - Fiery
+  - Broken
+  - Goal
+  - Fence
+  - Guide
+  - Magnet
+  - ObjectGuard
+  - Basketball
+  - BasketballWall
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 467358843
+    locked: 0
